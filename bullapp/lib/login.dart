@@ -29,7 +29,7 @@ class MyLogin extends StatelessWidget {
               padding: EdgeInsets.fromLTRB(0, 100, 0, 50),
               child: CircleAvatar(
                 radius: 100,
-                backgroundImage: AssetImage('assets/Images/Logo.png'),
+                backgroundImage: AssetImage('assets/images/Logo.png'),
               ),
             ),
             Container(
