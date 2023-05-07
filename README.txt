@@ -7,3 +7,6 @@ The assignment consist of 5 team member, which is
 3. Muhammad Ichsan Alfian
 4. Muhammad Ridhan Firdaus
 5. Syahdi Gharizah Ahsan
+
+This assignment are under instruction and guidence of our lecturer, 
+Sir Aristyo Hadikusuma S. ST., M.T.
