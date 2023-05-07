@@ -3,6 +3,15 @@ import 'package:flutter/material.dart';
 class HomePage extends StatelessWidget {
   const HomePage({Key? key}) : super(key: key);
 
+  Widget build(BuildContext context){
+    return MaterialApp(
+      home: MyHomePage(),
+    );
+  }
+}
+
+class MyHomePage extends StatelessWidget{
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
